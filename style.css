@@ -57,6 +57,10 @@ body * {
   padding-top: 8px;
 }
 
+#avatar {
+  border-radius: 50px;
+}
+
 /* Switch */
 
 #switch {
